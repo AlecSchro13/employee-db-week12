@@ -18,8 +18,18 @@ VALUES
     ('Financial Manager', 135000, 3),
     ('Accountant', 115000, 3),
     ('Lead Lawyer', 200000, 4),
-    ('Lawyer', 175000, 4),
+    ('Lawyer', 175000, 4);
 
 INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
 VALUES
+    ('Billy', 'Bob', 1, 1),
+    ('John', 'Bill', 2, NULL),
+    ('Ellie', 'John', 3, NULL),
+    ('Joe', 'Johnson', 4, 3),
+    ('Alex', 'Hanson', 5, NULL),
+    ('Jim', 'Bean', 6, 5),
+    ('Jack', 'Daniels', 7, NULL),
+    ('Morgan', 'Silver', 8, NULL),
+    ('Don', 'Julio', 9, 7);
+
