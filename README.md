@@ -7,3 +7,6 @@
 ~Motivation: To make it easier for employers to manage their employees, managers, and departments they work in
 
 
+https://github.com/AlecSchro13/employee-db-week12
+
+https://drive.google.com/file/d/1qxnSQuZqKqKfl32yJyyBX1a5m8sO_EoI/view
