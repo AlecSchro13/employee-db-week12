@@ -77,4 +77,7 @@ class DB {
       }
     }
     
+const myDBinstance = new DB(connection);
+myDBinstance.findAllEmployees()
+
 module.exports = new DB(connection);
