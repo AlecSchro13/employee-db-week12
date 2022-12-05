@@ -1,4 +1,4 @@
-use employee;
+use employees;
 
 INSERT INTO department
     (name)
@@ -17,8 +17,8 @@ VALUES
     ('Software Engineer', 110000, 2),
     ('Financial Manager', 135000, 3),
     ('Accountant', 115000, 3),
-    ('Lead Lawyer', 200000, 4),
-    ('Lawyer', 175000, 4);
+    ('Lead Lawyer', 2000000, 4),
+    ('Lawyer', 1750000, 4);
 
 INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
